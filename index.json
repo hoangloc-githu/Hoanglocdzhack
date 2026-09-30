@@ -1,69 +1,54 @@
-{ 
-  "schemaVersion": 1, 
-  "identifier": "nsmod.lq.vip", 
-  "name": "♰ NSMOD LQVIP ♰", 
-  "description": " : ̗̀➛ KÊNH TELE: t.me/sonchoigame123 \n  ̗̀➛ HACK MAP + CAM XA",
-  "icon": "https://nsmod.github.io/avt/avt.jpg", 
-  "packages": [ 
-    { 
-      "identifier": "LQ-HMCX", 
-      "name": " UNLOCKFULL SKIN + CAM XA  ", 
-      "author": "NSMOD", 
-      "version": "1.0.0", 
-      "summary": "FULL SKIN + CAM XA ★", 
-      "description": "☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT : t.me/sonchoigame123 \n 🛡️ AntiBan \n 🌐 WEB: nsmod.github.io ", 
-      "category": "KÊNH TELE: t.me/sonchoigame123", 
-      "tags": [ 
-        "KÊNH TELE: t.me/sonchoigame123"
-      ], 
-      "icon": "https://nsmod.github.io/avt/AVTHAI.webp", 
-      "screenshots": [ 
-        "https://nsmod.github.io/img/fullskinlq.jpg"
-      ], 
-      "download": "https://nsmod.github.io/file%20patch/UNLOCKSKIN-CAMXA.3105",
-      "sha256": "B7E09CB3D2E8D541DDC9AB2A24F72BA9B4B677BFD0B24F87118BB9042C3DAFA9", 
-      "size": 134138, 
+{
+  "schemaVersion": 2,
+  "identifier": "nsmod.lq.vip",
+  "name": "♰ NSMOD LQVIP ♰",
+  "description": "Sileo/Dopamin compatible repository\n🎮 KÊNH TELE: t.me/sonchoigame123\n🌐 HACK MAP + CAM XA",
+  "icon": "https://nsmod.github.io/avt/avt.jpg",
+  "homepage": "https://nsmod.github.io",
+  "developer": {
+    "name": "NSMOD",
+    "email": "contact@nsmod.github.io"
+  },
+  "packages": [
+    {
+      "identifier": "lq.unlockskin.camxa",
+      "name": "🎯 UNLOCK FULL SKIN + CAM XA",
+      "author": "NSMOD",
+      "version": "1.0.0",
+      "summary": "FULL SKIN + CAMERA XA",
+      "description": "☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT: t.me/sonchoigame123\n🛡️ AntiBan Protection\n🌐 WEB: nsmod.github.io\n📱 Support iOS 16.0 - 18.7+",
+      "category": "Gaming",
+      "tags": ["lienquan", "hack", "skin", "camera"],
+      "icon": "https://nsmod.github.io/avt/AVTHAI.webp",
+      "screenshots": ["https://nsmod.github.io/img/fullskinlq.jpg"],
+      "download": "https://github.com/hoangloc-githu/Hoanglocdzhack/releases/download/v1.0.0/lq.unlockskin.camxa_1.0.0_iphoneos-arm.deb",
+      "sha256": "B7E09CB3D2E8D541DDC9AB2A24F72BA9B4B677BFD0B24F87118BB9042C3DAFA9",
+      "size": 134138,
       "supportedOS": [
-        { "minimum": "16.0", "maximum": "18.7.10" },
-        { "minimum": "26.0", "maximum": "26.7" },
-        {
-          "minimum": "27.0",
-          "maximum": "27.2",
-          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f", "24A5408d", "24A5418b", "24A5424a", "24A5430a", "24A435", "24A437", "24B5084k", "24B5089g"] 
-        } 
-      ], 
-      "featured": false, 
-      "isPrivate": false 
+        {"minimum": "16.0", "maximum": "18.7.10"}
+      ],
+      "featured": true,
+      "isPrivate": false
     },
-    { 
-      "identifier": "LQ-FULLSKINMAP", 
-      "name": " UNLOCKFULL SKIN, HACK MAP, CAM XA  ", 
-      "author": "NSMOD", 
-      "version": "1.0.0", 
-      "summary": "FULL SKIN MAP SÁNG CAM XA ★", 
-      "description": "☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT : t.me/sonchoigame123 \n 🛡️ AntiBan \n 🌐 WEB: nsmod.github.io ", 
-      "category": "KÊNH TELE: t.me/sonchoigame123", 
-      "tags": [ 
-        "KÊNH TELE: t.me/sonchoigame123"
-      ], 
-      "icon": "https://nsmod.github.io/avt/IMGMEMZATA.jpg", 
-      "screenshots": [ 
-        "https://nsmod.github.io/img/fullskinlq.jpg"
-      ], 
-      "download": "https://nsmod.github.io/file%20patch/Unlock%20Skin%20%2B%20Hack%20Map.3105",
-      "sha256": "B255FCE4A9207EC3E839F7BD7E198A3D21A2681F29C38624BDD1F13C04812EFC", 
-      "size": 134838, 
+    {
+      "identifier": "lq.fullskinmap.camxa",
+      "name": "🎨 UNLOCK FULL SKIN + HACK MAP + CAM XA",
+      "author": "NSMOD",
+      "version": "1.0.0",
+      "summary": "FULL SKIN, MAP SÁNG, CAMERA XA",
+      "description": "☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT: t.me/sonchoigame123\n🎮 Full Skin Unlock\n🗺️ Hack Map (Sáng)\n📷 Extended Camera\n🛡️ AntiBan System\n🌐 WEB: nsmod.github.io",
+      "category": "Gaming",
+      "tags": ["lienquan", "hack", "skin", "map", "camera"],
+      "icon": "https://nsmod.github.io/avt/IMGMEMZATA.jpg",
+      "screenshots": ["https://nsmod.github.io/img/fullskinlq.jpg"],
+      "download": "https://github.com/hoangloc-githu/Hoanglocdzhack/releases/download/v1.0.0/lq.fullskinmap.camxa_1.0.0_iphoneos-arm.deb",
+      "sha256": "B255FCE4A9207EC3E839F7BD7E198A3D21A2681F29C38624BDD1F13C04812EFC",
+      "size": 134838,
       "supportedOS": [
-        { "minimum": "16.0", "maximum": "18.7.10" },
-        { "minimum": "26.0", "maximum": "26.7" },
-        {
-          "minimum": "27.0",
-          "maximum": "27.2",
-          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f", "24A5408d", "24A5418b", "24A5424a", "24A5430a", "24A435", "24A437", "24B5084k", "24B5089g"] 
-        } 
-      ], 
-      "featured": false, 
-      "isPrivate": false 
+        {"minimum": "16.0", "maximum": "18.7.10"}
+      ],
+      "featured": true,
+      "isPrivate": false
     }
   ]
 }
