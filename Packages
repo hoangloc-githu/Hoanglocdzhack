@@ -1,0 +1,36 @@
+Package: lq.unlockskin.camxa
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: NSMOD <contact@nsmod.github.io>
+Installed-Size: 1024
+Depends: mobilesubstrate
+Filename: ./debs/lq.unlockskin.camxa_1.0.0_iphoneos-arm.deb
+Size: 134138
+SHA256: B7E09CB3D2E8D541DDC9AB2A24F72BA9B4B677BFD0B24F87118BB9042C3DAFA9
+Section: Tweaks
+Priority: optional
+Homepage: https://nsmod.github.io
+Description: 🎯 UNLOCK FULL SKIN + CAM XA
+ ☦️ KÊNH TELE: t.me/sonchoigame123
+ 🛡️ Anti-Ban Protection
+ 🌐 WEB: nsmod.github.io
+
+Package: lq.fullskinmap.camxa
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: NSMOD <contact@nsmod.github.io>
+Installed-Size: 1024
+Depends: mobilesubstrate
+Filename: ./debs/lq.fullskinmap.camxa_1.0.0_iphoneos-arm.deb
+Size: 134838
+SHA256: B255FCE4A9207EC3E839F7BD7E198A3D21A2681F29C38624BDD1F13C04812EFC
+Section: Tweaks
+Priority: optional
+Homepage: https://nsmod.github.io
+Description: 🎨 UNLOCK FULL SKIN + HACK MAP + CAM XA
+ ☦️ KÊNH TELE: t.me/sonchoigame123
+ 🎮 Full Skin Unlock
+ 🗺️ Hack Map (Sáng)
+ 📷 Extended Camera
+ 🛡️ Anti-Ban System
+ 🌐 WEB: nsmod.github.io
